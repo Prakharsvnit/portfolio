@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Prakharsvnit/Prakharsvnit.github.io/static/css/main.ff58af51.chunk.css",
+    "main.js": "/Prakharsvnit/Prakharsvnit.github.io/static/js/main.d7fd847e.chunk.js",
+    "main.js.map": "/Prakharsvnit/Prakharsvnit.github.io/static/js/main.d7fd847e.chunk.js.map",
+    "runtime-main.js": "/Prakharsvnit/Prakharsvnit.github.io/static/js/runtime-main.e0009400.js",
+    "runtime-main.js.map": "/Prakharsvnit/Prakharsvnit.github.io/static/js/runtime-main.e0009400.js.map",
+    "static/css/2.e45429e2.chunk.css": "/Prakharsvnit/Prakharsvnit.github.io/static/css/2.e45429e2.chunk.css",
+    "static/js/2.4897329e.chunk.js": "/Prakharsvnit/Prakharsvnit.github.io/static/js/2.4897329e.chunk.js",
+    "static/js/2.4897329e.chunk.js.map": "/Prakharsvnit/Prakharsvnit.github.io/static/js/2.4897329e.chunk.js.map",
+    "index.html": "/Prakharsvnit/Prakharsvnit.github.io/index.html",
+    "precache-manifest.11a0322c07b3550eba50b464e394c2ad.js": "/Prakharsvnit/Prakharsvnit.github.io/precache-manifest.11a0322c07b3550eba50b464e394c2ad.js",
+    "service-worker.js": "/Prakharsvnit/Prakharsvnit.github.io/service-worker.js",
+    "static/css/2.e45429e2.chunk.css.map": "/Prakharsvnit/Prakharsvnit.github.io/static/css/2.e45429e2.chunk.css.map",
+    "static/css/main.ff58af51.chunk.css.map": "/Prakharsvnit/Prakharsvnit.github.io/static/css/main.ff58af51.chunk.css.map",
+    "static/js/2.4897329e.chunk.js.LICENSE.txt": "/Prakharsvnit/Prakharsvnit.github.io/static/js/2.4897329e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0009400.js",
+    "static/css/2.e45429e2.chunk.css",
+    "static/js/2.4897329e.chunk.js",
+    "static/css/main.ff58af51.chunk.css",
+    "static/js/main.d7fd847e.chunk.js"
+  ]
+}
