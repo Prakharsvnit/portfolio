@@ -4,7 +4,6 @@ import "./App.scss";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import About from "./components/About";
-import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
@@ -95,7 +94,6 @@ class App extends Component {
           >
             <span
               className="iconify language-icon mr-5"
-              data-icon="twemoji-flag-for-flag-united-kingdom"
               data-inline="false"
               id={window.$primaryLanguageIconId}
             ></span>
@@ -111,7 +109,6 @@ class App extends Component {
           >
             <span
               className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
               data-inline="false"
               id={window.$secondaryLanguageIconId}
             ></span>
@@ -129,11 +126,8 @@ class App extends Component {
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-        <Experience
-          resumeExperience={this.state.resumeData.experience}
-          resumeBasicInfo={this.state.resumeData.basic_info}
-        />
-        <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
+
+        {/* <Footer sharedBasicInfo={this.state.sharedData.basic_info} /> */}
       </div>
     );
   }

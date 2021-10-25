@@ -1,8 +1,5 @@
 import React, { Component } from "react";
-import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+
 
 class About extends Component {
   render() {
@@ -30,18 +27,7 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  <Icon
-                    icon={angularIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={vueIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                  <p target="_blank" style={{fontSize: "20px", marginTop:"2rem",color:"blue"}}><a href="https://drive.google.com/file/d/1gzoTlaf9c_E1ra4qbjSITyH10A4oftGu/view?usp=sharing">Download Resume</a></p>
                 </span>
               </div>
             </div>
@@ -72,7 +58,7 @@ class About extends Component {
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
                     style={{
                       height: "auto",
-                      fontSize: "132%",
+                      fontSize: "150%",
                       lineHeight: "200%",
                     }}
                   >
