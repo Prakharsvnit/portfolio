@@ -4,14 +4,21 @@
       "titles": [ "Front-end Developer", "Back-end Developer", "React developer" ],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
+          "name": "phone",
+          "url": "",
+          "class": "fas fa-phone",
+          "description": "+91-6387395178"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "gmail",
+          "url": "",
+          "class": "fas fa-envelope",
+          "description":"prakhartripathi.4896@gmail.com"
+        },{
+          "name": "github",
+          "url": "https://github.com/Prakharsvnit",
+          "class": "fab fa-github",
+          "description":"Prakharsvnit"
         }
       ],
       "image": "myProfile.jpg"
